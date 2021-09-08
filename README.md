@@ -1,3 +1,3 @@
-### Readme for my klever full-stack challenge
+### scripts and exercises to learn Golang
 
 ## Angelo Bonini
